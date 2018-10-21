@@ -84,9 +84,7 @@ header {
     background-color: rgb(255, 255, 255);
     background-image: url("./header.jpg");
     background-origin: padding-box;
-    background-position: 50% 50%;
-    background-position-x: 50%;
-    background-position-y: 50%;
+    background-position: 60% 60%;
     background-repeat: no-repeat;
     background-size: cover;
     box-sizing: border-box;
