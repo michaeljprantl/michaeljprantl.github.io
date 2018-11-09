@@ -67,7 +67,7 @@ nav ul li {
 }
 
 header {
-  background: url(img/header.jpg) no-repeat center #fff;
+  background: url(images/header.jpg) no-repeat center #fff;
   background-size:cover;
   position: relative;
 }
