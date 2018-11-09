@@ -42,7 +42,20 @@ footer {
   color: #b3b3b3;
 }
 
-/* III. Pseudo-elements */
+/* III. Special elements */
+
+#left-sidebar {
+  width: 25%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background: #191919;
+  font-size: 100.01%;
+  line-height: 1;
+}
+
+/* IV. Pseudo-elements */
 
 ::selection {
   background: #fae3df;
