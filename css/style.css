@@ -41,7 +41,6 @@ nav {
   margin-right: 90px;
   clear: both;
   margin-top: 60px;
-  color: #fff;
 }
 
 nav ul {
@@ -57,12 +56,13 @@ nav ul {
 nav ul li {
   display: list-item;
   text-align: -webkit-match-parent;
+  font-size: 18px;
+  color: #fff;
   margin: 0px;
+  margin-bottom: 22px;
   padding: 0px;
   border: 0;
   outline: 0;
-  font-size: 18px;
-  margin-bottom: 22px;
   line-height: 1.4;
 }
 
