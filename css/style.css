@@ -67,9 +67,11 @@ nav ul li {
 }
 
 header {
+  display: block;
   background: url(images/header.jpg) no-repeat center #fff;
   background-size:cover;
   position: relative;
+  box-sizing: border-box;
 }
 
 footer {
