@@ -66,6 +66,12 @@ nav ul li {
   line-height: 1.4;
 }
 
+header {
+  background: url(img/header.jpg) no-repeat center #fff;
+  background-size:cover;
+  position: relative;
+}
+
 footer {
   display: block;
   padding: 2em 0 0 0;
