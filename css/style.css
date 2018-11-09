@@ -95,6 +95,14 @@ footer {
   line-height: 1;
 }
 
+#content {
+  width: 75.1%;
+  float: right;
+  margin: 0px;
+  padding: 0px;
+  dispaly: block;
+}
+
 /* IV. Pseudo-elements */
 
 ::selection {
