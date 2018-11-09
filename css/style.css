@@ -36,11 +36,12 @@ body {
 
 nav {
   font-family: "Lato", sans-serif;
+  text-align: right;
   height: 100%;
   float: right;
+  margin-top: 60px;
   margin-right: 90px;
   clear: both;
-  margin-top: 60px;
 }
 
 nav ul {
