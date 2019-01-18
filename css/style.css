@@ -108,3 +108,29 @@ footer {
 ::selection {
   background: #fae3df;
 }
+
+/* V. Pseude-classes
+
+To be done
+
+Default state that a link resides in, when it is not in any other state.
+a:link {
+}
+
+A link when it has already been visited (exists in the browser's history).
+a:visited {
+}
+
+A link when it has been focused (e.g. by a keyboard user using the TAB key,
+or programmatically focused, using HTMLElement.focus()).
+a:focus {
+}
+
+A link when it is being hovered over by a user's mouse pointer.
+a:hover {
+}
+
+A link when it is being activated (e.g. clicked on)
+a:active {
+}
+*/
